@@ -2,7 +2,7 @@
 I am currently engaged in developing innovative startup ventures with immense potential for future growth and value creation. These cutting-edge businesses are poised to disrupt their respective industries, making a significant impact and driving positive change.
 
 ## 🌐 Website:
-[![Website](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://opeyemiodedeyi.me/)
+![Website](https://opeyemiodedeyi.me/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/odedeyiope) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/opeyemi-odedeyi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6148320) 
