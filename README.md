@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently engaged in developing innovative startup ventures with immense potential for future growth and value creation. These cutting-edge businesses are poised to disrupt their respective industries, making a significant impact and driving positive change.
+I love building things and get satisfaction seeing things i have bult used by people. I am currently engaged in developing innovative startup ventures with immense potential for future growth and value creation.
 
 ## 🌐 Website:
 [![Personal Website: OpeyemiOdedeyi.me](https://img.shields.io/badge/Website-OpeyemiOdedeyi.me-blue)](https://www.opeyemiodedeyi.me)
